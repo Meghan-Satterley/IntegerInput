@@ -24,13 +24,13 @@ Next type or copy and paste the following lines to create an executable file and
 <b> cd C:\Satterley_ASM </b> <br>
 <b> make32 Meghan-Satterley_IntegerInput </b> <br> <br>
 You should see the following files appear in your folder directory <br> 
-![make32_IntegerInput](https://user-images.githubusercontent.com/114275745/233791486-e4e940c5-d3ab-41d7-a218-25a33bcfc252.png)
+![make32_IntegerInput](https://user-images.githubusercontent.com/114275745/233791486-e4e940c5-d3ab-41d7-a218-25a33bcfc252.png) <br>
 <br> <br> Lastly type the following line to execute the program <br>
 <b> Meghan-Satterley_IntegerInput </b> <br> <br>
 The following will result if executed correctly <br>
-![IntegerInput_Exe_1](https://user-images.githubusercontent.com/114275745/233791506-0c318873-ad98-47a8-9c99-6748746b5286.png)
-![IntegerInput_Exe_2](https://user-images.githubusercontent.com/114275745/233791512-7c3afe82-7095-4a46-ad5d-bf79a2c8216f.png)
-![IntegerInput_Exe_3](https://user-images.githubusercontent.com/114275745/233791520-b2c7b272-a9e9-4e12-894e-edde2d196864.png)
+![IntegerInput_Exe_1](https://user-images.githubusercontent.com/114275745/233791506-0c318873-ad98-47a8-9c99-6748746b5286.png) <br>
+![IntegerInput_Exe_2](https://user-images.githubusercontent.com/114275745/233791512-7c3afe82-7095-4a46-ad5d-bf79a2c8216f.png) <br>
+![IntegerInput_Exe_3](https://user-images.githubusercontent.com/114275745/233791520-b2c7b272-a9e9-4e12-894e-edde2d196864.png) <br>
 ![IntegerInput_Exe_4](https://user-images.githubusercontent.com/114275745/233791525-5fd7420d-7bf4-4138-a369-c1b1c3a126e7.png) <br>
 
 The complete assembly program has 13 variables <br>
