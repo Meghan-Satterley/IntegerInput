@@ -35,3 +35,6 @@ The following will result if executed correctly <br>
 
 The complete assembly program has 13 variables <br>
 (An input counter and display for the integer count, sum, odd/even numbers, max/min values, and a prompt for user input). 
+<br> While using the following Irvine-supplied routines: WriteString, WriteInt, and ReadInt.
+<br> The purpose of this program is to show an understanding of real world simple application implementation. 
+
