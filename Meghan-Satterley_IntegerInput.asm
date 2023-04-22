@@ -19,7 +19,6 @@ oddCnt     DWORD  0
 evenCnt    DWORD  0
 maxVal     DWORD -1	
 minVal     DWORD -1
-inputVal   DWORD  ?
 
 ;declare necessary prompt and display lines
 
