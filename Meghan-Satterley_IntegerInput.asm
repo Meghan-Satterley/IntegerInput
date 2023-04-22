@@ -48,7 +48,7 @@ Continue:
 	add  inputSum,eax		;add entered value to the sum	
 
 	cmp  inputCnt,1		;compare input count to one 
-	jl   CheckEvenOdd		;jump to check even odd if less
+	jg   CheckEvenOdd		;jump to check even odd if greater
 	mov  minVal,eax		;set minVal to first entered number
 
 CheckEvenOdd:
